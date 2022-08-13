@@ -1,0 +1,44 @@
+body{
+    background-color: rgba(0, 0, 0, 0.87);
+}
+.videos{
+    text-align: center;
+}
+.titulo{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+.paragraph{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+.paragraph2{
+    color: white;
+    text-align: center;
+}
+.paragraph3{
+    margin-right: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.img{
+    width: 40px;
+    display: flex;
+    justify-content: right;
+}
+.div-1{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: right;
+    transform: translateX(0%);
+}
+.link{
+    text-decoration: none;
+    color: white;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}

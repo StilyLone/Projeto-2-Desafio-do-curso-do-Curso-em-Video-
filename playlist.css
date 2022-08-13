@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(0, 0, 0, 0.87);
+}
+.titulo1{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.div1{
+    text-align: center;
+}
+.div2{
+    text-align: center;
+}
+.paragraph1{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.img{
+    text-align: center;
+    align-items: center;
+    width: 40px;
+    transform: translateY(30%);
+}
